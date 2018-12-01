@@ -8,3 +8,6 @@
 # Versions
 ## Version 1.0.0 (23 novembre 2018)
 - Le fichier .html présent les bases de chaque fichier .html 
+## Version 1.0.1 (1er decembre 2018)
+- Creation d'un fichier .css où on est écrit le style 
+du fichier .html (feuille de style externe)
